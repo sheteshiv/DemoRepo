@@ -13,4 +13,9 @@ public class LoginPage {
 		
 		System.out.println("Login Stage");
 	}
+	
+	public void AddtionalMethod()
+	{
+	System.out.println("Additional Method");
+	}
 }
